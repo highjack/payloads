@@ -1,3 +1,5 @@
+# Email Payloads from Jan Schaumann (@jschauma)
+
 Reference: https://twitter.com/jschauma/status/1378172844169961477
 
  ## MTAs generally don't relay them any more, but most seem to accept and deliver to user@final.domain.
